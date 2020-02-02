@@ -1,4 +1,4 @@
-echo "# rock-the-jvm-scala-beginners" >> README.md
+#echo "# rock-the-jvm-scala-beginners" >> README.md
 git init
 git add *
 git commit -m "Changes"
